@@ -1,5 +1,6 @@
 # SageMaker Deployment Project
 
+This was a fun project, messed up and let it run for 3 days.... ~30$ AWS at time of development. 
 
 The notebook and Python files provided here results in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. 
 
